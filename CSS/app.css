@@ -1,0 +1,13 @@
+.jobsv{background-color: #EAF6FF;height: 250px;margin:20px; }
+.logo{width: 100px;height: 100px;visibility: visible;float: left;margin: 15px;}
+.fonth1 {font-family: serif;padding-top: 20px;}
+.theP{color:black;margin-left: 140px}
+.theUl{color:black;margin-left: 150px}
+.xemthem{text-decoration: none;margin-left: 140px}
+.mmedic{background-color: #E8E9FF;height: 250px;margin: 20px;}
+.decoration{text-decoration: none;}
+.phaluoi{background-color: #F2E7FF;height: 250px;margin: 20px;}
+.xeta{background-color: #FCE7FB;height: 250px;margin: 20px;}
+.one:hover img{ 
+	width:120px !important;
+}
